@@ -1,0 +1,10 @@
+bin\Release\OrdersApplication.exe.config
+obj\Release\OrdersApplication.exe
+obj\Release\OrdersApplication.pdb
+bin\Release\OrdersApplication.exe
+bin\Release\OrdersApplication.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\OrdersApplication.CreateOrder.resources
+obj\Release\OrdersApplication.Main.resources
+obj\Release\OrdersApplication.Properties.Resources.resources
+obj\Release\OrdersApplication.csproj.GenerateResource.Cache

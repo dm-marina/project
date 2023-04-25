@@ -1,0 +1,63 @@
+C:\Documents and Settings\Student\Desktop\Labfiles\CS\Starter\OrdersApplication\OrdersApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Student\Desktop\Labfiles\CS\Starter\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.Properties.Resources.resources
+C:\Documents and Settings\Student\Desktop\Labfiles\CS\Starter\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\Student\Desktop\Labfiles\CS\Starter\OrdersApplication\OrdersApplication\bin\Debug\OrdersApplication.exe
+C:\Documents and Settings\Student\Desktop\Labfiles\CS\Starter\OrdersApplication\OrdersApplication\bin\Debug\OrdersApplication.pdb
+C:\Documents and Settings\Student\Desktop\Labfiles\CS\Starter\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.exe
+C:\Documents and Settings\Student\Desktop\Labfiles\CS\Starter\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.pdb
+C:\Documents and Settings\Student\Desktop\Labfiles\CS\Starter\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.CreateOrder.resources
+C:\Documents and Settings\Student\Desktop\Labfiles\CS\Starter\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.Main.resources
+C:\Documents and Settings\Student\Desktop\Labfiles\Starter\CS\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.exe
+C:\Documents and Settings\Student\Desktop\Labfiles\Starter\CS\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.pdb
+C:\Documents and Settings\Student\Desktop\Labfiles\Starter\CS\OrdersApplication\OrdersApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Student\Desktop\Labfiles\Starter\CS\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.CreateOrder.resources
+C:\Documents and Settings\Student\Desktop\Labfiles\Starter\CS\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.Main.resources
+C:\Documents and Settings\Student\Desktop\Labfiles\Starter\CS\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.Properties.Resources.resources
+C:\Documents and Settings\Student\Desktop\Labfiles\Starter\CS\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\Student\Desktop\Labfiles\Starter\CS\OrdersApplication\OrdersApplication\bin\Debug\OrdersApplication.exe
+C:\Documents and Settings\Student\Desktop\Labfiles\Starter\CS\OrdersApplication\OrdersApplication\bin\Debug\OrdersApplication.pdb
+C:\Documents and Settings\Student\Desktop\Mod 3 labfiles\Starter\CS\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.exe
+C:\Documents and Settings\Student\Desktop\Mod 3 labfiles\Starter\CS\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.pdb
+C:\Documents and Settings\Student\Desktop\Mod 3 labfiles\Starter\CS\OrdersApplication\OrdersApplication\bin\Debug\OrdersApplication.exe
+C:\Documents and Settings\Student\Desktop\Mod 3 labfiles\Starter\CS\OrdersApplication\OrdersApplication\bin\Debug\OrdersApplication.pdb
+C:\Documents and Settings\Student\Desktop\Mod 3 labfiles\Starter\CS\OrdersApplication\OrdersApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Student\Desktop\Mod 3 labfiles\Starter\CS\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.CreateOrder.resources
+C:\Documents and Settings\Student\Desktop\Mod 3 labfiles\Starter\CS\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.Main.resources
+C:\Documents and Settings\Student\Desktop\Mod 3 labfiles\Starter\CS\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.Properties.Resources.resources
+C:\Documents and Settings\Student\Desktop\Mod 3 labfiles\Starter\CS\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.exe
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.pdb
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\bin\Debug\OrdersApplication.exe.config
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\bin\Debug\OrdersApplication.exe
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\bin\Debug\OrdersApplication.pdb
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.CreateOrder.resources
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.Main.resources
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.Properties.Resources.resources
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\obj\Debug\OrdersApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\bin\Release\OrdersApplication.exe.config
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\bin\Release\OrdersApplication.exe
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\bin\Release\OrdersApplication.pdb
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\obj\Release\OrdersApplication.CreateOrder.resources
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\obj\Release\OrdersApplication.Main.resources
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\obj\Release\OrdersApplication.Properties.Resources.resources
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\obj\Release\OrdersApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\obj\Release\OrdersApplication.exe
+C:\Documents and Settings\Student\Desktop\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\obj\Release\OrdersApplication.pdb
+E:\VIKA\технология  .NET - курсы\Allfiles\Mod03\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\bin\Release\OrdersApplication.exe.config
+E:\VIKA\технология  .NET - курсы\Allfiles\Mod03\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\obj\Release\OrdersApplication.exe
+E:\VIKA\технология  .NET - курсы\Allfiles\Mod03\Labfiles\Solution\CS\OrdersApplication\OrdersApplication\obj\Release\OrdersApplication.pdb
+E:\VIKA\Прикладной анализ программных систем\2012\labi\3\OrdersApplication исходный\OrdersApplication\bin\Debug\OrdersApplication.exe.config
+E:\VIKA\Прикладной анализ программных систем\2012\labi\3\OrdersApplication исходный\OrdersApplication\obj\Debug\OrdersApplication.exe
+E:\VIKA\Прикладной анализ программных систем\2012\labi\3\OrdersApplication исходный\OrdersApplication\obj\Debug\OrdersApplication.pdb
+E:\VIKA\Прикладной анализ программных систем\2012\labi\3\lab3\OrdersApplication исходный\OrdersApplication\bin\Debug\OrdersApplication.exe.config
+E:\VIKA\Прикладной анализ программных систем\2012\labi\3\lab3\OrdersApplication исходный\OrdersApplication\obj\Debug\OrdersApplication.exe
+E:\VIKA\Прикладной анализ программных систем\2012\labi\3\lab3\OrdersApplication исходный\OrdersApplication\obj\Debug\OrdersApplication.pdb
+E:\VIKA\Прикладной анализ программных систем\2012\labi\3\lab3\OrdersApplication исходный\OrdersApplication\bin\Debug\OrdersApplication.exe
+E:\VIKA\Прикладной анализ программных систем\2012\labi\3\lab3\OrdersApplication исходный\OrdersApplication\bin\Debug\OrdersApplication.pdb
+E:\VIKA\Прикладной анализ программных систем\2012\labi\3\lab3\OrdersApplication исходный\OrdersApplication\obj\Debug\ResolveAssemblyReference.cache
+E:\VIKA\Прикладной анализ программных систем\2012\labi\3\lab3\OrdersApplication исходный\OrdersApplication\obj\Debug\OrdersApplication.CreateOrder.resources
+E:\VIKA\Прикладной анализ программных систем\2012\labi\3\lab3\OrdersApplication исходный\OrdersApplication\obj\Debug\OrdersApplication.Main.resources
+E:\VIKA\Прикладной анализ программных систем\2012\labi\3\lab3\OrdersApplication исходный\OrdersApplication\obj\Debug\OrdersApplication.Properties.Resources.resources
+E:\VIKA\Прикладной анализ программных систем\2012\labi\3\lab3\OrdersApplication исходный\OrdersApplication\obj\Debug\OrdersApplication.csproj.GenerateResource.Cache
